@@ -2,6 +2,7 @@
 
 ### How to build Self confidence:
 
+```bash
 1. Know Yourself:
    - Recognise your strength and talent
    - Embrace youe uniqueness
@@ -38,5 +39,6 @@
    - Being self confident is not a journey, not an overnight achievement
    - Confidence is built overnight but over nights
    - Believe in yourself and youe abilities
-   - Ebrace challenge, learn from setbacks and celebrate success
+   - Embrace challenge, learn from setbacks and celebrate success
    - Most importantly be kind to yourself.
+```
